@@ -1,1 +1,99 @@
-node_modules/
+[33mcommit c1174ac7d251ff47c90ae1790671931a1ccd0e4e[m
+Merge: a4b0f0a 85aacdf
+Author: Eric J Fisher <EricJFisher@users.noreply.github.com>
+Date:   Fri Dec 9 15:49:33 2016 -0500
+
+    Merge pull request #15 from EricJFisher/patch-1
+    
+    Corrected Project URL in Readme.md
+
+[33mcommit 85aacdf63da45f29058e16cce9df5ed22a4e10cf[m
+Author: Eric J Fisher <EricJFisher@users.noreply.github.com>
+Date:   Fri Dec 9 15:43:01 2016 -0500
+
+    Corrected Project URL in Readme.md
+    
+    The project urls were missing the `-` in `code-school` causing them to 404, these urls have been corrected.
+
+
+[33mcommit a4b0f0a0b9aab0c6f52dbe3f3f7c6ccb047d5202[m
+Merge: 3ab48d7 7b7f648
+Author: Adam Fortuna <adamfortuna@users.noreply.github.com>
+Date:   Thu Dec 8 15:28:29 2016 -0500
+
+    Merge pull request #3 from eibt/testfix
+    
+    Improve assertion message for title task
+
+[33mcommit 7b7f648ce798fcc33a3346d1a2c0f19472a03cb6[m
+Author: Mr. Ivan <ivan@ivandigital.com>
+Date:   Thu Dec 8 10:19:46 2016 -0600
+
+    Change assertion message for task 1
+    
+    - On the codeschool website it asks students to add their name to the title element
+
+
+[33mcommit 3ab48d7b1ea110e0d8158109989dadedc335d121[m
+Author: Adam Fortuna <adamfortuna@users.noreply.github.com>
+Date:   Thu Dec 8 09:40:13 2016 -0500
+
+    Update README.md
+
+
+[33mcommit b6e3af9955786543d2fab07ae415d8085cdbb31e[m
+Author: Adam Fortuna <adamfortuna@users.noreply.github.com>
+Date:   Thu Dec 8 09:36:51 2016 -0500
+
+    Update README.md
+
+
+[33mcommit ff77f689b8e3cc994696e9d5e0ba32b582bc2d08[m
+Author: Adam Fortuna <adamfortuna@users.noreply.github.com>
+Date:   Wed Nov 2 12:30:33 2016 -0400
+
+    Update LICENSE.txt
+
+
+[33mcommit 84d1515f84d7ae92e0b164b2822321591b03d9ed[m
+Author: Adam Fortuna <adamfortuna@users.noreply.github.com>
+Date:   Wed Nov 2 12:28:53 2016 -0400
+
+    Create LICENSE.txt
+
+ create mode 100644 LICENSE.txt
+
+[33mcommit 8ac62660b2d98c7ab5ea90cc36b151441149881a[m
+Author: Adam Fortuna <adam@fortuna.name>
+Date:   Mon Oct 24 11:06:54 2016 -0400
+
+    Updated task 1 to reflect state of the HTML
+
+
+[33mcommit 4f517f568d9e44a962af83c4da5c45bf3c49905f[m
+Author: Adam Fortuna <adam@fortuna.name>
+Date:   Mon Oct 24 11:06:43 2016 -0400
+
+    Added screenshot with finished example
+
+ create mode 100644 screenshot.png
+
+[33mcommit 8cd39c6e172383f187c0a5fbd664e08882f88139[m
+Author: Adam Fortuna <adam@fortuna.name>
+Date:   Tue Aug 30 07:55:30 2016 -0400
+
+    Updated tests to include tagging and add error messages
+
+
+[33mcommit ab1f82a44130db040438c36f10135fa130b85ba8[m
+Author: Drew Barontini <drewbarontini@gmail.com>
+Date:   Mon Aug 15 08:44:16 2016 -0400
+
+    Initial commit
+
+ create mode 100644 .gitignore
+ create mode 100644 .travis.yml
+ create mode 100755 README.md
+ create mode 100755 index.html
+ create mode 100755 package.json
+ create mode 100755 test/index_test.js
